@@ -16,5 +16,5 @@ F5 để decompile
 
 "Password correct, please see flag: picoCTF{3lf_r3v3r5ing_succe55ful_7851ef7d}" => flag
 
-* Flag: picoCTF{3lf_r3v3r5ing_succe55ful_7851ef7d}
+* Flag: **picoCTF{3lf_r3v3r5ing_succe55ful_7851ef7d}**
 
