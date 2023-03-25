@@ -41,4 +41,4 @@ Nếu thêm dòng mov 0, 1 như trên rồi mới end thì nó sẽ trả về h
 
 
 
-* Flag: picoCTF{h3r0_t0_z3r0_4m1r1gh7_a7bf8a57}
+* Flag: **picoCTF{h3r0_t0_z3r0_4m1r1gh7_a7bf8a57}**
