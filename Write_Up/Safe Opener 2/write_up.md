@@ -9,4 +9,4 @@ Tải file SafeOpener.class về máy.
 ![image](https://user-images.githubusercontent.com/122852491/227441299-673a6c07-2243-454d-887c-25124f1e203e.png)
 
 
-* Flag: picoCTF{SAf3_0p3n3rr_y0u_solv3d_it_b427942b}
+* Flag: **picoCTF{SAf3_0p3n3rr_y0u_solv3d_it_b427942b}**
