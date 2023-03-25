@@ -18,4 +18,4 @@ File đầu là AndroidManifest.xml, e thử mở trong NotePad, và may thay:
 
 ![image](https://user-images.githubusercontent.com/122852491/227443126-32f9b1db-f047-4d2a-b7a2-49cea400fcf8.png)
 
-* Flag: picoCTF{t1m3r_r3v3rs3d_succ355fully_17496}
+* Flag: **picoCTF{t1m3r_r3v3rs3d_succ355fully_17496}**
